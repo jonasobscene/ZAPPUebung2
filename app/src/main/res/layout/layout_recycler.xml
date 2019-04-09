@@ -6,6 +6,7 @@
     <CheckBox
         android:id="@+id/cb_main"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:textSize="25sp" />
 
 </android.support.constraint.ConstraintLayout>
